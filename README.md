@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hola, soy Elvys 👋
+# Hi, I'm Elvys 👋 🇩🇴
 
-### Fundador de **KEIZAC TECH** · Construyo software y agentes de IA que trabajan solos
+### Founder of **KEIZAC TECH** · I build software and AI agents that do the work on their own
 
 [![Web](https://img.shields.io/badge/keizactech.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keizactech.com)
 [![Docs](https://img.shields.io/badge/Docs-KEIZAC%20TECH-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white)](https://keizactech.com/docs)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oraciones-presencia-de-yeshua)
 [![Instagram](https://img.shields.io/badge/@keizac.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keizac.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvys-rosario-12821b2a4)
 
@@ -13,29 +14,34 @@
 
 ---
 
-### 🚀 Lo que construyo
+### 🚀 What I build
 
-- 🎬 **Agentes de IA para contenido**: escriben, narran, montan y publican vídeos cada día sin intervención.
-- 🚚 **Software para empresas de reparto (DSP)**: gestión de flotas, conductores y operación diaria.
-- 🌐 **Webs y plataformas** para negocios, con automatizaciones detrás.
+- 🎬 **AI agents for content**: they write, narrate, edit and publish videos every day with no hands on the wheel.
+- 📞 **AI receptionists** for service businesses: answer every call, book the job, text the owner.
+- 🌐 **Websites and platforms** for businesses, with automations behind them.
 
-### ⭐ Proyectos
+### ⭐ Projects
 
-| Proyecto | Qué hace |
+| Project | What it does |
 |---|---|
-| 🎬 **[Oraflow](https://github.com/RosaritoRD/oraflow)** | Agente de IA que lleva un canal de YouTube de principio a fin: guion → voz → vídeo → miniatura → publicación → aprendizaje |
-| 🛰️ **[Centro de mando](https://github.com/RosaritoRD/centro-de-mando)** | Agentes de IA que trabajan para tu negocio, con aprobación humana y coste medido |
-| 🎙️ **[Voz local](https://github.com/RosaritoRD/voz-local)** | Texto a voz en español en tu servidor, sin pagar por carácter |
-| 📖 **[Shorts de versículos](https://github.com/RosaritoRD/shorts-versiculos)** | Fábrica en serie de Shorts cristianos + clipping de prédicas |
-| 🧪 **[Laboratorio de nichos](https://github.com/RosaritoRD/laboratorio-nichos)** | Valida con datos si un nicho de YouTube vale la pena antes de lanzarlo |
-| 📜 **[Logs centralizados](https://github.com/RosaritoRD/logs-centralizados)** | Todos los logs de tu VPS en un buscador, con dashboards de seguridad |
+| 🎬 **[Oraflow](https://github.com/RosaritoRD/oraflow)** | An AI agent that runs a YouTube channel end to end: script → voice → video → thumbnail → publishing → learning |
+| 🛰️ **[Command Center](https://github.com/RosaritoRD/centro-de-mando)** | AI agents that work for your business, with human approval and measured cost |
+| 🎙️ **[Local Voice](https://github.com/RosaritoRD/voz-local)** | Spanish text-to-speech on your own server, no per-character fees |
+| 📖 **[Bible Verse Shorts](https://github.com/RosaritoRD/shorts-versiculos)** | Batch factory for Christian Shorts + sermon clipping |
+| 🧪 **[Niche Lab](https://github.com/RosaritoRD/laboratorio-nichos)** | Validate with data whether a YouTube niche is worth it before you launch |
+| 📜 **[Centralized Logs](https://github.com/RosaritoRD/logs-centralizados)** | Every log on your VPS in one search box, with security dashboards |
 
-Cada repo trae una guía **💸 Ahorro y mejoras** con lo que aprendí para gastar menos y que funcione mejor, y se conecta a **Claude Code** y **Codex**.
+Every repo ships a **💸 Savings and tips** guide with what I learned to spend less and make it work better, and plugs into **Claude Code** and **Codex**.
 
-### 🛠️ Con qué trabajo
+### 📺 Running in production
+
+These tools power a real Spanish-language prayer channel that publishes every day: **[▶️ Oraciones · Presencia de Yeshua](https://www.youtube.com/@oraciones-presencia-de-yeshua)**.
+
+### 🛠️ Tech I use
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -47,16 +53,16 @@ Cada repo trae una guía **💸 Ahorro y mejoras** con lo que aprendí para gast
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-### 🌱 Ahora mismo
+### 🌱 Right now
 
-- Publicando mis herramientas como código abierto, **limpias y documentadas**.
-- Probando qué hace crecer un canal de YouTube con datos reales (voz, guion y miniaturas).
-- Pronto: comunidad en **Discord** para quien quiera construir con IA.
+- Open-sourcing my tools — **clean and documented**.
+- Testing what actually grows a YouTube channel with real data (voice, script and thumbnails).
+- Got a question or an idea? Open a **Discussion** on [Oraflow](https://github.com/RosaritoRD/oraflow/discussions) or [Local Voice](https://github.com/RosaritoRD/voz-local/discussions).
 
 ---
 
 <div align="center">
 
-💬 ¿Quieres usar algo de esto en tu negocio? Escríbeme desde **[keizactech.com](https://keizactech.com)**
+💬 Want to use any of this in your business? Reach me at **[keizactech.com](https://keizactech.com)**
 
 </div>
