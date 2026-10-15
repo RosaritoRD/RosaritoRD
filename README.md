@@ -19,19 +19,18 @@
 - 🚚 **Software para empresas de reparto (DSP)**: gestión de flotas, conductores y operación diaria.
 - 🌐 **Webs y plataformas** para negocios, con automatizaciones detrás.
 
-### ⭐ Proyecto destacado
+### ⭐ Proyectos
 
-<table>
-<tr>
-<td>
+| Proyecto | Qué hace |
+|---|---|
+| 🎬 **[Oraflow](https://github.com/RosaritoRD/oraflow)** | Agente de IA que lleva un canal de YouTube de principio a fin: guion → voz → vídeo → miniatura → publicación → aprendizaje |
+| 🛰️ **[Centro de mando](https://github.com/RosaritoRD/centro-de-mando)** | Agentes de IA que trabajan para tu negocio, con aprobación humana y coste medido |
+| 🎙️ **[Voz local](https://github.com/RosaritoRD/voz-local)** | Texto a voz en español en tu servidor, sin pagar por carácter |
+| 📖 **[Shorts de versículos](https://github.com/RosaritoRD/shorts-versiculos)** | Fábrica en serie de Shorts cristianos + clipping de prédicas |
+| 🧪 **[Laboratorio de nichos](https://github.com/RosaritoRD/laboratorio-nichos)** | Valida con datos si un nicho de YouTube vale la pena antes de lanzarlo |
+| 📜 **[Logs centralizados](https://github.com/RosaritoRD/logs-centralizados)** | Todos los logs de tu VPS en un buscador, con dashboards de seguridad |
 
-**[Oraflow](https://github.com/RosaritoRD/oraflow)** — un agente de IA que lleva un canal de YouTube de principio a fin: guion → voz → vídeo → miniatura → publicación → aprendizaje. Shorts, Instagram y Facebook incluidos. Probado en producción con un canal real.
-
-`Node.js` `FFmpeg` `ElevenLabs` `OpenRouter` `Docker` · se conecta a **Claude Code** y **Codex**
-
-</td>
-</tr>
-</table>
+Cada repo trae una guía **💸 Ahorro y mejoras** con lo que aprendí para gastar menos y que funcione mejor, y se conecta a **Claude Code** y **Codex**.
 
 ### 🛠️ Con qué trabajo
 
