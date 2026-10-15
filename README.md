@@ -7,6 +7,7 @@
 [![Web](https://img.shields.io/badge/keizactech.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keizactech.com)
 [![Docs](https://img.shields.io/badge/Docs-KEIZAC%20TECH-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white)](https://keizactech.com/docs)
 [![Instagram](https://img.shields.io/badge/@keizac.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keizac.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvys-rosario-12821b2a4)
 
 </div>
 
