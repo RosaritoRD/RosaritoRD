@@ -25,11 +25,11 @@
 | Project | What it does |
 |---|---|
 | 🎬 **[Oraflow](https://github.com/RosaritoRD/oraflow)** | An AI agent that runs a YouTube channel end to end: script → voice → video → thumbnail → publishing → learning |
-| 🛰️ **[Command Center](https://github.com/RosaritoRD/centro-de-mando)** | AI agents that work for your business, with human approval and measured cost |
-| 🎙️ **[Local Voice](https://github.com/RosaritoRD/voz-local)** | Spanish text-to-speech on your own server, no per-character fees |
-| 📖 **[Bible Verse Shorts](https://github.com/RosaritoRD/shorts-versiculos)** | Batch factory for Christian Shorts + sermon clipping |
-| 🧪 **[Niche Lab](https://github.com/RosaritoRD/laboratorio-nichos)** | Validate with data whether a YouTube niche is worth it before you launch |
-| 📜 **[Centralized Logs](https://github.com/RosaritoRD/logs-centralizados)** | Every log on your VPS in one search box, with security dashboards |
+| 🛰️ **[Command Center](https://github.com/RosaritoRD/command-center)** | AI agents that work for your business, with human approval and measured cost |
+| 🎙️ **[Local Voice](https://github.com/RosaritoRD/local-voice)** | Spanish text-to-speech on your own server, no per-character fees |
+| 📖 **[Bible Verse Shorts](https://github.com/RosaritoRD/bible-verse-shorts)** | Batch factory for Christian Shorts + sermon clipping |
+| 🧪 **[Niche Lab](https://github.com/RosaritoRD/niche-lab)** | Validate with data whether a YouTube niche is worth it before you launch |
+| 📜 **[Centralized Logs](https://github.com/RosaritoRD/centralized-logs)** | Every log on your VPS in one search box, with security dashboards |
 
 Every repo ships a **💸 Savings and tips** guide with what I learned to spend less and make it work better, and plugs into **Claude Code** and **Codex**.
 
@@ -57,7 +57,7 @@ These tools power a real Spanish-language prayer channel that publishes every da
 
 - Open-sourcing my tools — **clean and documented**.
 - Testing what actually grows a YouTube channel with real data (voice, script and thumbnails).
-- Got a question or an idea? Open a **Discussion** on [Oraflow](https://github.com/RosaritoRD/oraflow/discussions) or [Local Voice](https://github.com/RosaritoRD/voz-local/discussions).
+- Got a question or an idea? Open a **Discussion** on [Oraflow](https://github.com/RosaritoRD/oraflow/discussions) or [Local Voice](https://github.com/RosaritoRD/local-voice/discussions).
 
 ---
 
